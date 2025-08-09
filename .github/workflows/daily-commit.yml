@@ -21,7 +21,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git config --global user.name "Gulab Ahmad"
-          git config --global user.email "GulabAhmad@users.noreply.github.com" # or your real GitHub email
+          git config --global user.email "GulabAhmad724@users.noreply.github.com" # or your real GitHub email
           git add README.md
           git commit -m "🔄 chore: update timestamp $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push

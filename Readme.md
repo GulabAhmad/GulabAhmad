@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Gulab Ahmad.netlify.app/)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://GulabAhmad.netlify.app/)** -->
 
 - 📫 How to reach me *gulabahmad724@gmail.com*
 
