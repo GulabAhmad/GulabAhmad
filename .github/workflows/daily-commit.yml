@@ -8,10 +8,15 @@ on:
 jobs:
   safe-daily-update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Append timestamp at end of README.md
         run: |
@@ -21,7 +26,11 @@ jobs:
       - name: Commit and push if changed
         run: |
           git config --global user.name "Gulab Ahmad"
-          git config --global user.email "GulabAhmad724@users.noreply.github.com" # or your real GitHub email
+          git config --global user.email "gulabahmad724@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 chore: update timestamp $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🔄 chore: update timestamp $(date -u '+%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
