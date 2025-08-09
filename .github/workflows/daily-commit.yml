@@ -1,0 +1,27 @@
+name: Safe 4x Daily Commit
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 4 times a day
+  workflow_dispatch:
+
+jobs:
+  safe-daily-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Append timestamp at end of README.md
+        run: |
+          echo "" >> README.md
+          echo "<!-- Last updated on $(date -u '+%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "Gulab Ahmad"
+          git config --global user.email "GulabAhmad@users.noreply.github.com" # or your real GitHub email
+          git add README.md
+          git commit -m "🔄 chore: update timestamp $(date -u '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push

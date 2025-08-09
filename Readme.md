@@ -1,140 +1,86 @@
-# Gulab Ahmad
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![UV](https://img.shields.io/badge/package%20manager-UV-green.svg)](https://github.com/astral-sh/uv)
+<h1 align="center">Hi ,I'm Gulab Ahmad</h1>
+<h3 align="center">An enthusiastic Software Engineer from Pakistan, I thrive on creating impactful, scalable technologies that solve real-world problems.</h3>
 
-A modern Python project built with UV package manager for efficient dependency management and fast development workflows.
+## 🙋‍♂ About Me
 
-## 🚀 Features
+- 🌱 I’m currently learning *OpenAi Agents SDK*
 
-- **Fast Package Management**: Built with UV for lightning-fast dependency resolution
-- **Modern Python**: Compatible with Python 3.8+
-- **Clean Architecture**: Well-structured and maintainable codebase
-- **Easy Setup**: Simple installation and configuration process
+- 👯 I’m looking to collaborate on *OpenSource Projects*
 
-## 📋 Table of Contents
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://Gulab Ahmad.netlify.app/)**
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- 📫 How to reach me *gulabahmad724@gmail.com*
 
-## 🛠️ Installation
+- ⚡ Fun fact *I play games and go to Gym very often.*
 
-### Prerequisites
+## 🚀 Languages and Tools:
 
-- Python 3.8 or higher
-- UV package manager
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"style="width:70px "/> </a>
+    <a href="https://angular.io" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png" style="width:70px " /> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"style="width:70px " /> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width:70px "/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"style="width:70px " /> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"style="width:70px " /> </a> 
+    <a href="https://www.cplusplus.com/info/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"style="width:70px " /> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" style="width:70px "/> </a> 
+    <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" style="width:70px "/> </a> 
+    <a style="padding-right:12px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width:70px " /> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="width:70px " /> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width:70px "/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" style="width:70px "/> </a> 
+    <!-- <br> -->
+<!--     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png" style="width:70px"/></a>  -->
+<!--     <a href="https://wordpress.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="Wordpress" style="width:70px" /> </a>    -->
+<!--     <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/visual-studio.png" style="width:70px"/> </a>  -->
+<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" style="width:70px "/> </a> -->
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="/images/express.js.png" alt="express" style="width:80px"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="./images/nextjs.jpg" alt="Next.js" style="width:80px"/> </a> -->
+</p>
 
-### Setup
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/gulab-don.git
-   cd gulab-don
-   ```
+<p align="center">
+    <a href="https://github.com/gulabahmad/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GulabAhmad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gulab Ahmad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-2. **Install dependencies using UV**
-   ```bash
-   uv sync
-   ```
+## 📊 My Github Stats
 
-3. **Activate the virtual environment**
-   ```bash
-   uv shell
-   ```
+  <br/>
+    <a href="https://github.com/GulabAhmad/github-readme-stats"><img alt="GulabAhmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GulabAhmad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/GulabAhmad/github-readme-stats"><img alt="GulabAhmad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulabAhmad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 🎯 Usage
+<br/>
+<br/>
 
-### Running the Application
+<br/>
+<br/>
 
-```bash
-# Run the main application
-uv run python main.py
+## Connect with me:
 
-# Run tests
-uv run pytest
+<p align="left">
 
-# Run linting
-uv run ruff check .
-```
+<a href = "https://www.linkedin.com/in/gulab-ahmad/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/gulab__ahmi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-### Development
+<a href = "https://leetcode.com/u/GulabAhmad39/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+<!-- <a href = "https://www.hackerrank.com/hamidchaudhary31"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a> -->
 
-```bash
-# Install development dependencies
-uv add --dev pytest ruff black
+<!-- <a href = "https://www.instagram.com/ch_hamid_zahid/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
-# Format code
-uv run black .
+</p>
 
-# Check code quality
-uv run ruff check .
-```
+## ❤ Views and Followers
 
-## 🏗️ Project Structure
-
-```
-gulab-don/
-├── src/                    # Source code
-│   ├── __init__.py
-│   └── main.py
-├── tests/                  # Test files
-│   └── __init__.py
-├── docs/                   # Documentation
-├── pyproject.toml         # Project configuration
-├── README.md              # This file
-└── .gitignore            # Git ignore rules
-```
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Run tests**
-   ```bash
-   uv run pytest
-   ```
-5. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-6. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
-
-### Development Guidelines
-
-- Follow PEP 8 style guidelines
-- Write comprehensive tests for new features
-- Update documentation as needed
-- Use meaningful commit messages
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [UV](https://github.com/astral-sh/uv) for fast Python package management
-- Thanks to all contributors who have helped with this project
-
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
----
-
-⭐ If you found this project helpful, please give it a star!
+<!---<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=GulabAhmad">
+</a>-->
+<a href="https://github.com/GulabAhmad?tab=followers"><img src="https://img.shields.io/github/followers/GulabAhmad?label=Followers&style=social" alt="GitHub Badge"></a>
