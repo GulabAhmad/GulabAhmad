@@ -3,7 +3,7 @@
 <h1 align="center">Hi ,I'm Gulab Ahmad</h1>
 <h3 align="center">An enthusiastic Software Engineer from Pakistan, I thrive on creating impactful, scalable technologies that solve real-world problems.</h3>
 
-## 🙋‍♂ About Me
+## 🙋‍♂ About Me 
 
 - 🌱 I’m currently learning *OpenAi Agents SDK*
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *gulabahmad724@gmail.com*
 
-- ⚡ Fun fact *I play games and go to Gym very often.*
+- ⚡ Fun fact *I play games and go to Walk very often.*
 
 ## 🚀 Languages and Tools:
 
